@@ -13,7 +13,6 @@ You will need to get some libraries :
 pip install uuid
 pip install
 hashlib
-
 ```
 (All libs imported : import os
                      import platform
@@ -26,8 +25,5 @@ STEP 2
 Just run it dear :) 
 
 ```
-
 python SpictoV1.py
-
-
 ```
